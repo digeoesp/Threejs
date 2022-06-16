@@ -1,0 +1,350 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1024,
+      "max": [
+        0.10024920105934143,
+        0.12028250098228455,
+        1.6696710586547852
+      ],
+      "min": [
+        -0.10024920105934143,
+        -0.09660107642412186,
+        1.3563300371170044
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12288,
+      "componentType": 5126,
+      "count": 1024,
+      "max": [
+        0.9996778964996338,
+        0.9995352029800415,
+        0.9978510141372681
+      ],
+      "min": [
+        -0.9996778964996338,
+        -0.9999526143074036,
+        -0.9990671277046204
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1024,
+      "max": [
+        1.0,
+        0.9993100166320801,
+        0.7829420566558838,
+        1.0
+      ],
+      "min": [
+        -0.9999709129333496,
+        -0.9942440986633301,
+        -0.6732758283615112,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1024,
+      "max": [
+        -15.006349563598633,
+        16.87822914123535
+      ],
+      "min": [
+        -15.993619918823242,
+        16.119630813598633
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 5820,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24576,
+      "componentType": 5126,
+      "count": 7232,
+      "max": [
+        0.5957602858543396,
+        0.14406639337539673,
+        1.4186489582061768
+      ],
+      "min": [
+        -0.5957595109939575,
+        -0.15592460334300995,
+        -0.0001999498053919524
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 111360,
+      "componentType": 5126,
+      "count": 7232,
+      "max": [
+        0.9999691247940063,
+        0.9999461770057678,
+        0.9996877908706665
+      ],
+      "min": [
+        -0.9999693036079407,
+        -0.9999688267707825,
+        -0.9999964237213135
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 16384,
+      "componentType": 5126,
+      "count": 7232,
+      "max": [
+        1.0,
+        0.9997405409812927,
+        0.9986463785171509,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999919533729553,
+        -0.9987537860870361,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 8192,
+      "componentType": 5126,
+      "count": 7232,
+      "max": [
+        -15.04833984375,
+        16.99748992919922
+      ],
+      "min": [
+        -15.988579750061035,
+        16.004880905151367
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 23280,
+      "componentType": 5125,
+      "count": 38532,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "EWTube0 (https://sketchfab.com/EWTube0)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/fortnite-spiderman-no-way-home-34fbd43fdc4a470db50838974fcbaf5a",
+      "title": "Fortnite: Spiderman No Way Home"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 177408,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 66048,
+      "byteOffset": 177408,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 198144,
+      "byteOffset": 243456,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 132096,
+      "byteOffset": 441600,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 573696,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Model001_Material001_baseColor.png"
+    },
+    {
+      "uri": "textures/Model001_Material001_normal.png"
+    },
+    {
+      "uri": "textures/Model001_Material002_baseColor.png"
+    },
+    {
+      "uri": "textures/Model001_Material002_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Model001_Material001",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Model001_Material002",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "Fortnite Spiderman No Way Home.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
